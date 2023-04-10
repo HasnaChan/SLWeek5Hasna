@@ -14,10 +14,16 @@ Or you can watch here :
 
 
 
+https://user-images.githubusercontent.com/103588041/230957713-b75e1c3b-1217-4d32-b2b2-3643bca85281.mp4
+
+
+
 
 **1. Product Page:**
 This is a page that shows all the products in Hasna's Jewelry Store:
 ![1. Product Page](https://github.com/HasnaChan/SLWeek5Hasna/blob/master/dokumentasi/product.jpg)
+
+
 **2. Detail Page:**
 This is a page that shows the details of the product:
 ![2. Detail Page](https://github.com/HasnaChan/SLWeek5Hasna/blob/master/dokumentasi/details.jpg)

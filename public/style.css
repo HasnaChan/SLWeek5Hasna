@@ -1,0 +1,24 @@
+
+.singlecard{
+    width: 100%;
+    text-align: center;
+    padding: 2px;
+    border: 1px solid black;
+}
+
+.R{
+    background-color: silver;
+    width: 225px;
+}
+
+.SR{
+    background-color: goldenrod;
+    width: 225px;
+}
+
+.SSR{
+    background-color: red;
+    color : white;
+    width: 225px;
+}
+

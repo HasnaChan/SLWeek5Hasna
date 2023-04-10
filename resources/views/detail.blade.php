@@ -28,7 +28,7 @@
             <h5 class="card-title">Name: {{ $card['ProductName'] }}</h5>
             <h6 class="card-text">Status: {{ $card['StatusProduct'] }}</h6>
             <h6 class="card-text">Price: {{ $card['ProductPrice'] }}</h6>
-            <h5 class="card-title">Description</h5>
+            <h5 class="card-title">Description:</h5>
             <h6 class="card-text">{{ $card['ProductDesc'] }}</h6>
         </div>
       </div>

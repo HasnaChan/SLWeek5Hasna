@@ -17,10 +17,12 @@ Or you can watch here :
 
 **1. Product Page:**
 This is a page that shows all the products in Hasna's Jewelry Store:
-![1. Product Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/homenav.jpg)
+![1. Product Page](https://github.com/HasnaChan/SLWeek5Hasna/blob/master/dokumentasi/product.jpg)
 **2. Detail Page:**
 This is a page that shows the details of the product:
-![2. Detail Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/aboutnav.jpg)
+![2. Detail Page](https://github.com/HasnaChan/SLWeek5Hasna/blob/master/dokumentasi/details.jpg)
+![2.1 Detail Page](https://github.com/HasnaChan/SLWeek5Hasna/blob/master/dokumentasi/product2.jpg)
+![2.2 Detail Page](https://github.com/HasnaChan/SLWeek5Hasna/blob/master/dokumentasi/product3.jpg)
 
 
 ## If you want to run the website, do this step in cli:
